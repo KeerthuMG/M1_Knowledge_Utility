@@ -1,10 +1,10 @@
 # BEHAVIOR DIAGRAM <BR/>
 
-Activity Diagram
-Sequence Diagram 
-Use Case Diagram
+1. Activity Diagram
+2. Sequence Diagram 
+3. Use Case Diagram
 
 # STRUCTURE DIAGRAM <BR/>
 
-Components Diagram
-Class Diagram
+1. Components Diagram
+2. Class Diagram
