@@ -68,7 +68,7 @@ Data bridge
 
 ## Low Level Requirements
 
-|  HLID  |  LLID   |   Description                      |       Status (Implemented/In Progress/Future     | 
+|  HLID  |  LLID   |   Description                      |       Status (Implemented/In Progress/Future)     | 
 |--------|---------|------------------------------------|--------------------------------------------------|
 |  HR01  |  LR01   |    Performing Addition             |       Implemented                                |
 |  HR01  |  LR02   |    Performing Subtraction          |       Implemented                                |
