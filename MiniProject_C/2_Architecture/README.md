@@ -1,10 +1,16 @@
 # BEHAVIOR DIAGRAM <BR/>
 
+HIGH LEVEL DIAGRAM <BR/>
 1. Activity Diagram
-2. Sequence Diagram 
-3. Use Case Diagram
+
+LOW LEVEL DIAGRAM <BR/>
+1. Sequence Diagram 
+2. Use Case Diagram
 
 # STRUCTURE DIAGRAM <BR/>
 
+HIGH LEVEL DIAGRAM <BR/>
 1. Components Diagram
-2. Class Diagram
+
+LOW LEVEL DIAGRAM <BR/>
+1. Class Diagram
