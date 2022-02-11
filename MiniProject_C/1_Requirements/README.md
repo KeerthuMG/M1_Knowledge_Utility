@@ -8,8 +8,9 @@ In this project, some of the basic operations and advanced operations are create
 3. Multiplication
 4. Division
 5. Square
-6. Modulus
-7. Factorial
+6. Cube
+7. Modulus
+8. Factorial
 
 
 
