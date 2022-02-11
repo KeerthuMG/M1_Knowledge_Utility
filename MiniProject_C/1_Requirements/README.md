@@ -1,5 +1,6 @@
 # INTRODUCTION <BR/>
 Calculator is a device which performs arithmetic and other mathematical operations. Initially it starts with basic functions like addition, subtraction, multiplication and division. Followed by roots, logarithms, trigonometric functions and hyperbolic functions, factorial and power.
+In this project, some of the basic operations and advanced operations are created.
 
 # FEATURES <BR/>
 1. Addition
@@ -10,9 +11,10 @@ Calculator is a device which performs arithmetic and other mathematical operatio
 6. Modulus
 7. Factorial
 
-In this project, some of the basic operations and advanced operations are created.
 
-# 4W's and 1H <BR/>
+
+# 5W's and 1H <BR/>
+
 # WHO <BR/>
 1. Students can use for their academic work.
 2. Datascience workers working on machine learning and deep learning applications.
@@ -27,6 +29,9 @@ In this project, some of the basic operations and advanced operations are create
 # WHERE <BR/>
 1. Calculator is something which can be used anywhere like educational institutions, research area, bank, employees and soon on.
 
+# WHAT <BR/>
+1. It is a device used to calculate digits using various functions and different digits.
+
 # WHY <BR/>
 1. It is a machine which allows humans to get accurate and quick results easier.
 2. It solves more complicated problems quickly.
@@ -38,9 +43,19 @@ In this project, some of the basic operations and advanced operations are create
 
 # Strength <BR/>
 Large number of operation can be done quickly and easier with accurate result.
+Low cost.
+Variety of calculation.
+
+# Weakness <BR/>
+Nothing can be done other than calculation.
 
 # Opportunities <BR/>
 Its scope will never reduce because of it's strength, hence it has more scope on future.
+
+# Threats <BR/>
+Data bridge
+
+
 
 # DETAIL REQUIREMENTS <BR/>
 
