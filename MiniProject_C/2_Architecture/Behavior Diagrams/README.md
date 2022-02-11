@@ -1,4 +1,4 @@
-## Behavior Diagram: <BR/>
+## BEHAVIOR DIAGRAM : <BR/>
 
 ## High Level Diagram : Activity Diagram <BR/>
 
