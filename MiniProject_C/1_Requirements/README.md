@@ -15,28 +15,28 @@ In this project, some of the basic operations and advanced operations are create
 
 # 5W's and 1H <BR/>
 
-# WHO <BR/>
+# Who <BR/>
 1. Students can use for their academic work.
 2. Datascience workers working on machine learning and deep learning applications.
 3. Software engineers
 4. Researchers and mathematicians
 
-# WHEN <BR/>
+# When <BR/>
 1. When students facing difficulty in solving problems.
 2. Researchers can use it for getting a quick output.
 3. Comes to a great use when calculating a huge number.
 
-# WHERE <BR/>
+# Where <BR/>
 1. Calculator is something which can be used anywhere like educational institutions, research area, bank, employees and soon on.
 
-# WHAT <BR/>
+# What <BR/>
 1. It is a device used to calculate digits using various functions and different digits.
 
-# WHY <BR/>
+# Why <BR/>
 1. It is a machine which allows humans to get accurate and quick results easier.
 2. It solves more complicated problems quickly.
 
-# HOW <BR/>
+# How <BR/>
 1. Using this program we can perform it successfully.
 
 # SWOT ANALYSIS <BR/>
