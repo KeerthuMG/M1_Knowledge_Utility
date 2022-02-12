@@ -1,4 +1,4 @@
-## INTRODUCTION <BR/>
+# INTRODUCTION <BR/>
 Calculator is a device which performs arithmetic and other mathematical operations. Initially it starts with basic functions like addition, subtraction, multiplication and division. Followed by roots, logarithms, trigonometric functions and hyperbolic functions, factorial and power. In this project, some of the basic operations and advanced operations are created.
 
 ## FEATURES <BR/>
@@ -50,7 +50,7 @@ Its scope will never reduce because of it's strength, hence it has more scope on
 ### Threats
 Data bridge
 
-## REQUIREMENTS <BR/>
+# REQUIREMENTS <BR/>
 
 ### High Level Requirements
 User shall be able to perform Arthmetic operations and user shall be able to perform Advanced operations.
