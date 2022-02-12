@@ -143,3 +143,7 @@ User shall be able to perform Arthmetic operations and user shall be able to per
 ## Factorial <BR/>
 ![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Factorial.jpeg)
 
+
+# CONCLUSION
+
+This project is successfully implemented and varified
