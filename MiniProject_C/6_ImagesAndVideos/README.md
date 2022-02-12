@@ -1,5 +1,7 @@
 ## OUTPUT <BR/>
 
+These are the screenshots of output for all functions.
+
 ## Addition <BR/>
 ![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Addition.jpeg)
 
