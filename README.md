@@ -2,7 +2,7 @@
 
 
 ## CALCULATOR <BR/>
-In this project we are going to perform functions of calculator. Basic and advanced operations are implemented.
+This project is going to perform various functions of calculator. Here both basic and advanced functions are implemented.
 
 ## The application can do following activities: <BR/>
 1. Basic operations
