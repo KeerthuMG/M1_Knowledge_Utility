@@ -17,7 +17,7 @@ This project is going to perform various functions of calculator. Here both basi
 |3.    | 2_Architecture | Behavior Diagram and Structural Diagram |
 |4.    | 3_Implementation | Source Code |
 |5.    | 4_TestPlanAndOutput | High Level and Low Level Plans |
-|6.    | 5_Report | Content of Project |
+|6.    | 5_Report | Content of the Project |
 |7.    | 6_ImagesAndVideos | Output of Source Code |
 
 ## Contributor 
