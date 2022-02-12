@@ -50,7 +50,7 @@ Its scope will never reduce because of it's strength, hence it has more scope on
 ### Threats
 Data bridge
 
-## Requirements <BR/>
+## REQUIREMENTS <BR/>
 
 ### High Level Requirements
 User shall be able to perform Arthmetic operations and user shall be able to perform Advanced operations.
@@ -68,17 +68,23 @@ User shall be able to perform Arthmetic operations and user shall be able to per
 
 ### Behavior Diagram <BR/>
 
-HIGH LEVEL DIAGRAM <BR/>
-1. Activity Diagram
+### HIGH LEVEL DIAGRAM <BR/>
+### 1. Activity Diagram <BR/>
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Behavior%20Diagrams/Activity%20Diagram.jpg)
 
-LOW LEVEL DIAGRAM <BR/>
-1. Sequence Diagram 
-2. Use Case Diagram
+### LOW LEVEL DIAGRAM <BR/>
+### 1. Sequence Diagram <BR/>
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Behavior%20Diagrams/Sequence%20Diagram.jpg)
+
+### 2. Use Case Diagram <BR/>
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Behavior%20Diagrams/Use%20case%20Diagram.jpg)
 
 ### Structure Diagram <BR/>
 
-HIGH LEVEL DIAGRAM <BR/>
-1. Components Diagram
+### HIGH LEVEL DIAGRAM <BR/>
+### 1. Components Diagram <BR/>
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Structure%20Diagrams/Components%20Diagram.jpg)
 
-LOW LEVEL DIAGRAM <BR/>
-1. Class Diagram
+### LOW LEVEL DIAGRAM <BR/>
+### 1. Class Diagram <BR/>
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Structure%20Diagrams/Class%20Diagram.jpg)
