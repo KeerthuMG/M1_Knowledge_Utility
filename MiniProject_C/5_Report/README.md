@@ -12,49 +12,50 @@ Factorial
 
 ## 5W's and 1H <BR/>
 
-## Who
+### Who
 Students can use for their academic work.
 Datascience workers working on machine learning and deep learning applications.
 Software engineers
 Researchers and mathematicians
 
-## When
+### When
 When students facing difficulty in solving problems.
 Researchers can use it for getting a quick output.
 Comes to a great use when calculating a huge number.
 
-## Where
+### Where
 Calculator is something which can be used anywhere like educational institutions, research area, bank, employees and soon on.
 
-## What
+### What
 It is a device used to calculate digits using various functions and different digits.
 
-## Why
+### Why
 It is a machine which allows humans to get accurate and quick results easier.
 It solves more complicated problems quickly.
-## How
+
+### How
 Using this program we can perform it successfully.
 
 ## SWOT ANALYSIS <BR/>
 
-## Strength
+### Strength
 Large number of operation can be done quickly and easier with accurate result. Low cost. Variety of calculation.
 
-## Weakness
+### Weakness
 Nothing can be done other than calculation.
 
-## Opportunities
+### Opportunities
 Its scope will never reduce because of it's strength, hence it has more scope on future.
 
-## Threats
+### Threats
 Data bridge
 
-## DETAIL REQUIREMENTS <BR/>
+## Requirements <BR/>
 
-## High Level Requirements
+### High Level Requirements
 User shall be able to perform Arthmetic operations and user shall be able to perform Advanced operations.
 
-## Low Level Requirements
+### Low Level Requirements
 1. Performing Addition
 2. Performing Subtraction
 3. Performing Multiplication
@@ -62,3 +63,22 @@ User shall be able to perform Arthmetic operations and user shall be able to per
 5. Performing Square
 6. Performing Modulus
 7. Performing Factorial
+
+# ARCHITECTURE DIAGRAM <BR/>
+
+### Behavior Diagram <BR/>
+
+HIGH LEVEL DIAGRAM <BR/>
+1. Activity Diagram
+
+LOW LEVEL DIAGRAM <BR/>
+1. Sequence Diagram 
+2. Use Case Diagram
+
+### Structure Diagram <BR/>
+
+HIGH LEVEL DIAGRAM <BR/>
+1. Components Diagram
+
+LOW LEVEL DIAGRAM <BR/>
+1. Class Diagram
