@@ -2,13 +2,14 @@
 Calculator is a device which performs arithmetic and other mathematical operations. Initially it starts with basic functions like addition, subtraction, multiplication and division. Followed by roots, logarithms, trigonometric functions and hyperbolic functions, factorial and power. In this project, some of the basic operations and advanced operations are created.
 
 ## FEATURES <BR/>
-Addition
-Subtraction
-Multiplication
-Division
-Square
-Modulus
-Factorial
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Square
+6. Cube
+7. Modulus
+8. Factorial
 
 ## 5W's and 1H <BR/>
 
