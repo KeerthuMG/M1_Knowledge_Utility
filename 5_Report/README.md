@@ -71,24 +71,24 @@ User shall be able to perform Arthmetic operations and user shall be able to per
 
 ### HIGH LEVEL DIAGRAM <BR/>
 ### 1. Activity Diagram <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Behavior%20Diagrams/Activity%20Diagram.jpg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/2_Architecture/Behavior%20Diagram/Activity%20Diagram.jpg)
 
 ### LOW LEVEL DIAGRAM <BR/>
 ### 1. Sequence Diagram <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Behavior%20Diagrams/Sequence%20Diagram.jpg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/2_Architecture/Behavior%20Diagram/Sequence%20Diagram.jpg)
 
 ### 2. Use Case Diagram <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Behavior%20Diagrams/Use%20case%20Diagram.jpg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/2_Architecture/Behavior%20Diagram/Use%20case%20Diagram.jpg)
 
 ### Structure Diagram <BR/>
 
 ### HIGH LEVEL DIAGRAM <BR/>
 ### 1. Components Diagram <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Structure%20Diagrams/Components%20Diagram.jpg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/2_Architecture/Structural%20Diagram/Components%20Diagram.jpg)
 
 ### LOW LEVEL DIAGRAM <BR/>
 ### 1. Class Diagram <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Structure%20Diagrams/Class%20Diagram.jpg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/2_Architecture/Structural%20Diagram/Class%20Diagram.jpg)
 
 
 # TEST PLAN <BR/>
@@ -121,28 +121,28 @@ User shall be able to perform Arthmetic operations and user shall be able to per
 
 
 ## Addition <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Addition.jpeg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/6_ImagesAndVideos/Addition.jpeg)
 
 ## Subtraction <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Subtraction.jpeg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/6_ImagesAndVideos/Subtraction.jpeg)
 
 ## Multiplication <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Multiplication.jpeg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/6_ImagesAndVideos/Multiplication.jpeg)
 
 ## Division <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Division.jpeg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/6_ImagesAndVideos/Division.jpeg)
 
 ## Square <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Square.jpeg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/6_ImagesAndVideos/Square.jpeg)
 
 ## Cube <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Cube.jpeg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/6_ImagesAndVideos/Cube.jpeg)
 
 ## Modulus <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Modulus.jpeg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/6_ImagesAndVideos/Modulus.jpeg)
 
 ## Factorial <BR/>
-![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Factorial.jpeg)
+![](https://github.com/KeerthuMG/M1_Knowledge_Utility/blob/main/6_ImagesAndVideos/Factorial.jpeg)
 
 
 # CONCLUSION
